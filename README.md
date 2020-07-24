@@ -4,10 +4,10 @@ En este repositorio encontrarás algunos ejemplos para utilizar la pantalla lcd 
 
 # Aquí los links a los vídeos tutoriales.
 
-## [Tutorial Armado](https://www.youtube.com/watch?v=PXP-V2fyNcc)
+* [Tutorial Armado](https://www.youtube.com/watch?v=PXP-V2fyNcc)
 
-## [Tutorial Sensores](https://www.youtube.com/watch?v=mt-SsVCwMzI)
+* [Tutorial Sensores](https://www.youtube.com/watch?v=mt-SsVCwMzI)
 
-## [Tutorial Imágenes](https://www.youtube.com/watch?v=gtqe7BLcQFo)
+* [Tutorial Imágenes](https://www.youtube.com/watch?v=gtqe7BLcQFo)
 
 
