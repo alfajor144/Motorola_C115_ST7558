@@ -9,5 +9,3 @@ En este repositorio encontrarás algunos ejemplos para utilizar la pantalla lcd 
 * [Tutorial Sensores](https://www.youtube.com/watch?v=mt-SsVCwMzI)
 
 * [Tutorial Imágenes](https://www.youtube.com/watch?v=gtqe7BLcQFo)
-
-
